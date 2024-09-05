@@ -1,0 +1,6 @@
+Perform Below tasks. The assignment will be evaluated on the basis of number of tasks you perform
+1.Create a Vehicle class with max_speed and mileage instance attributes  (2 marks)
+2.Create a Bus class that inherits from the Vehicle class. Give the capacity argument of Bus.seating_capacity() a default value of 50. (6 marks)
+
+3.Define property that should have the same value for every class instance (2 marks)
+4.Create a Bus child class that inherits from the Vehicle class. The default fare charge of any vehicle is seating capacity * 100. If Vehicle is Bus instance, we need to add an extra 10% on full fare as a maintenance charge. So total fare for bus instance will become the final amount = total fare + 10% of the total fare. (10 marks)
