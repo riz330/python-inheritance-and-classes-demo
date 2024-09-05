@@ -1,5 +1,3 @@
-# python-inheritance-and-classes-demo
-
 # Python Inheritance and Classes Demo
 
 ## Overview
